@@ -1,0 +1,3 @@
+Model,Accuracy
+XGBoost,0.975
+MLPClassifier,0.945
